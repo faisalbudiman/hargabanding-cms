@@ -1,0 +1,19 @@
+table.dataTable tbody td 
+{
+	word-break: break-word;
+	vertical-align: top;
+}
+.l-12 {
+	left: 12px
+}
+table.dataTable.dtr-column>tbody>tr>td.control:before, table.dataTable.dtr-column>tbody>tr>th.control:before {
+	left: 90%
+}
+.custom-checkbox {
+	position: relative;
+	left: 10px;
+}
+.l-27 {
+	left: 27px;
+}
+</style>
